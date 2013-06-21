@@ -19,7 +19,7 @@ public class Min_Max {
 	{
 		int max = A[0];
 		for(int i = 1; i < n; i++)
-			if(max > A[i])
+			if(max <A[i])
 				max = A[i];
 		return max;
 	}
