@@ -7,6 +7,7 @@ public class Min_Max {
         System.out.println(Min(A, 4));
         System.out.println("Hello GitHub check slave branch!");
         System.out.println("Add a comment!");
+        System.out.println("Modify online");
 	}
 	public static int  Min(int[] A, int n)
 	{
